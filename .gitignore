@@ -1,0 +1,19 @@
+# Ignore the following files
+
+# Byte-compiled files
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+logs/
+
+# Pytest cache
+.pytest_cache/
